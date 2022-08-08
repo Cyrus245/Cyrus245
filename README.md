@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Syrus Sakib</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrus245&label=Profile%20views&color=0e75b6&style=flat" alt="cyrus245" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrus245" alt="cyrus245" /></a> </p>
+
 - 🔭 I’m currently working on **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cyrus245](https://github.com/Cyrus245)
@@ -19,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrus245&show_icons=true&locale=en&layout=compact" alt="cyrus245" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyrus245&show_icons=true&locale=en" alt="cyrus245" /></p>
-
-
