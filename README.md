@@ -3,8 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrus245" alt="cyrus245" /></a> </p>
-
 - 🔭 I’m currently working on **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cyrus245](https://github.com/Cyrus245)
@@ -23,3 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrus245&show_icons=true&locale=en&layout=compact" alt="cyrus245" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyrus245&show_icons=true&locale=en" alt="cyrus245" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrus245" alt="cyrus245" /></a> </p>
+
