@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cyrus245.github.io/Syrus-Sakib/](https://cyrus245.github.io/Syrus-Sakib/)
 
-- 💬 Ask me about **Javascript,react,Express**
+- 💬 Ask me about **Javascript,React,Express,NodeJS**
 
 - 📫 How to reach me **csakib78@gmail.com**
 
