@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyrus245&show_icons=true&locale=en" alt="cyrus245" /></p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyrus245)](https://github.com/anuraghazra/github-readme-stats)
+
