@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cyrus245](https://github.com/Cyrus245)
 
-- 💬 Ask me about **Javascript,react,Express**
+- 💬 Ask me about **JavaScript,react,Express,Node JS**
 
 - 📫 How to reach me **csakib78@gmail.com**
 
