@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **flutter**
 
 - 👯 I’m looking to collaborate on **Mern Stack projects**
 
