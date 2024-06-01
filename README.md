@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **flutter**
 
-- 👯 I’m looking to collaborate on **Mern Stack projects**
+- 👯 I’m looking to collaborate on **AI/ML projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cyrus245](https://github.com/Cyrus245)
 
